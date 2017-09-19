@@ -12,6 +12,8 @@ h1 {
 
 .container {
   height: 200px;
+  background-color: blue;
+  margin: auto;
 }
 
 .content {
@@ -20,10 +22,7 @@ h1 {
   background-color: #D3D3D3;
   width: 90%;
   height: 90%;
-  margin-top: 1.25%;
-  margin-bottom: 1.25%;
-  margin-right: auto;
-  margin-left: auto;
+  margin: auto;
 }
 
 .title{
@@ -31,8 +30,6 @@ h1 {
   top: 0;
   right: 0;
   width: 100px;
-  margin-top: 0;
-  margin-right: 0;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 7px;
@@ -70,8 +67,8 @@ h1 {
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
-  position: absolute;
-  top: 125px;
+  position: realtive;
+  top: 50px;
 }
 /********** Large devices only **********/
 @media (min-width: 992px) {
