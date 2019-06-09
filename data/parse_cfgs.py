@@ -32,7 +32,14 @@ engines = [
 ("48-7S", "Spark", "liquidEngine48-7S/liquidEngine48-7S.cfg"),
 ("O-10", "Puff", "OMSEngine/omsEngine.cfg"),
 ("IX-6315", "Dawn", "ionEngine/ionEngine.cfg"),
-("KS-25", "Vector", "liquidEngineSSME/SSME.cfg")
+("KS-25", "Vector", "liquidEngineSSME/SSME.cfg"),
+("KE-1", "Mastodon", "/SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineKE-1.cfg"),
+("LV-T91", "Cheetah", "/SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineLV-T91.cfg"),
+("LV-TX87", "Bobcat", "/SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineLV-TX87.cfg"),
+("RE-I2", "Skiff", "/SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineRE-I2.cfg"),
+("RE-J10", "Wolfhound", "/SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineRE-J10.cfg"),
+("RK-7", "Kodiak", "/SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineRK-7.cfg"),
+("RV-1", "Cub", "/SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineRV-1.cfg")
 ]
 
 # ================================
